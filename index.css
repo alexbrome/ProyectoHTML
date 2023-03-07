@@ -1,0 +1,93 @@
+/*BODY*/
+
+body{
+    background-color: rgb(194, 182, 210);
+    background-image: url(photo-1629196914168-3a2652305f9f.jpg);
+}
+.container{
+    width:960px;
+    margin:auto;
+    font-family: 100% sans-serif;
+}
+
+
+/*HEADER*/
+
+header{
+    padding: 17px;
+    margin-right: -11%;
+    background-color:  rgb(86, 26, 121);
+    font: white;
+    color: bisque;
+}
+.nombre_header{
+    color: rgb(241, 243, 238);
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: rgb(6, 3, 0);
+    font-family: 100% monospace;
+    color: white;
+    
+}
+.contacta{
+    color: wheat;
+    margin-left: 79%;
+}
+/*PRESENTACION*/
+#presentacion {
+    border: 4px inset;
+    margin-top: 15px;
+    border-color: rgb(138, 72, 174);
+    border-radius: 20px;
+    border-width: 5px;
+    width: 1062px;
+    box-shadow: 20px;
+}
+/*NOTICIAS*/
+#noticias{
+    box-shadow: 20px;
+    border: 4px inset ;
+    margin-top: 15px;
+    border-color: rgb(136, 81, 165);
+    border-radius: 20px;
+    border-width: 5px;
+    width: 1062px; 
+}
+/*CONTACTA*/
+#headercontacta{
+    margin: 29px;
+    margin-left: 343px;
+    margin-right: 616px;
+   
+}
+#enviar{
+    margin-top: -20px;
+}
+/*
+IMAGENES*/
+#imagenes{
+    display: block ruby;
+    margin-right: -12%;
+}
+.salesianas{
+    margin: 70px;
+}
+.accenture{
+    margin: 70px;
+}
+
+
+/*ENLACES A NOTICIAS*/
+h2{
+    color: blueviolet;
+    text-decoration: none;
+}
+h3{
+    text-decoration: none;
+    color: black;
+}
+
+
+
